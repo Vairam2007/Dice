@@ -5,8 +5,10 @@ import "../CSS/Page.css"
 const Page = () => {
   return (
     <>
-    <Board />
-    <Dice />
+    <div className="body">
+    <Board classNam="Board" />
+    <Dice classNam="Dice" />
+    </div>
     </>
 
   )
