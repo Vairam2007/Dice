@@ -51,7 +51,8 @@ const Board = () => {
         <img className='yellow3' src={yellow3}/>
         <img className='yellow4' src={yellow4}/>
       </div>
-    </div>
+      </div>
+
     </>
   )
 }

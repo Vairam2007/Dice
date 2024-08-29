@@ -6,7 +6,7 @@ const Page = () => {
   return (
     <>
     <div className="body">
-    <Board classNam="Board" />
+    {/* <Board classNam="Board" /> */}
     <Dice classNam="Dice" />
     </div>
     </>
