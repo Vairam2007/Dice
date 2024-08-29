@@ -5,7 +5,6 @@
     justify-content: space-evenly;
     align-items: center;
     flex-direction: row;
-    padding: 50px;
     background: linear-gradient(150deg, rgba(27,235,255,1), rgba(9,108,121,1), rgba(81,87,245,1));
 }
 .Dice{

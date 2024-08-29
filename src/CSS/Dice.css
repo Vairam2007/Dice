@@ -19,8 +19,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(2,173,53);
-background: linear-gradient(rgba(2,173,53,1), rgba(0,227,32,1) , rgba(2,173,53,1));
+    background: linear-gradient(rgba(2,173,53,1), rgba(0,227,32,1) , rgba(2,173,53,1));
     flex-direction: column;
     gap: 50px;
     border-radius: 20px;
